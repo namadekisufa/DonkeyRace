@@ -345,3 +345,11 @@ Received Import Request.
 Start importing Assets/Sprites/Background/Water/Layered Black.png using Guid(32ff46e4e920d4fc5af3f25bcbf38e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95722ff3c1464282b64180fd89d82d7e') in 0.010843 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1524.276092 seconds.
+  path: Assets/Sprites/Background/Surface.png
+  artifactKey: Guid(d5e33862278a24da0bb8ec05f36f5ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/Surface.png using Guid(d5e33862278a24da0bb8ec05f36f5ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a5b97c6ddf41a273399b9851519b39') in 0.010011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
